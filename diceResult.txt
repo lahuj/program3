@@ -1,0 +1,9 @@
+Result
+
+$ bash -x dice.sh
++ dice1=2
++ dice2=2
++ sum=4
++ echo 4
+4
+
